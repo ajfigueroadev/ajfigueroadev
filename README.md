@@ -1,11 +1,30 @@
-#### About Myself
-I create tools and apps that haven’t been made yet, shaping ideas into functional, minimalist experiences. I focus on precision, clean design, and smooth interactions, blending code and aesthetics into practical, thoughtful solutions.
+# Angelo J. Figueroa Mejia
 
-#### Programming Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+> Apps that don’t exist yet, with clean design and minimalist experiences.
 
-#### Frameworks / Platforms / Tools
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+## About Me
 
-#### Design & Productivity Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+- **Currently building:** Rozei, a personal anime organizer and tracker with fully customizable options, built with TanStack Start, Drizzle and Tauri.
+- **Learning:** Rust, Go, Zig and IA Agent Coding.
+- **Open to:** Minimalist, design-driven web and desktop apps
+- **Fun fact:** I got tired of anime catalogs that only let me look at information, never change it. So I’m building my own tracker where I add and edit every detail myself, from alternative titles and genres to status, and my whole watchlist, which used to live in Apple Notes, finally has a proper home.
+
+## Tech Stack
+
+**Languages:**  
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-60b234?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-81b234?style=for-the-badge)
+
+**Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TanStack Start](https://img.shields.io/badge/TanStack%20Start-b27534?style=for-the-badge) ![Astro](https://img.shields.io/badge/Astro-9bb234?style=for-the-badge) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-6c34b2?style=for-the-badge) ![TanStack Form](https://img.shields.io/badge/TanStack%20Form-9234b2?style=for-the-badge) ![TanStack Router](https://img.shields.io/badge/TanStack%20Router-34b28c?style=for-the-badge) ![Electron](https://img.shields.io/badge/Electron-5a34b2?style=for-the-badge) ![Tauri](https://img.shields.io/badge/Tauri-4234b2?style=for-the-badge) ![Vite](https://img.shields.io/badge/Vite-4db234?style=for-the-badge) ![Drizzle](https://img.shields.io/badge/Drizzle-5eb234?style=for-the-badge) ![Prisma](https://img.shields.io/badge/Prisma-b2a934?style=for-the-badge) ![.NET](https://img.shields.io/badge/.NET-b24234?style=for-the-badge)
+
+**Tools & DevOps:**  
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-3464b2?style=for-the-badge) ![Windows Server](https://img.shields.io/badge/Windows%20Server-b23499?style=for-the-badge) ![Railway](https://img.shields.io/badge/Railway-8134b2?style=for-the-badge) ![Render](https://img.shields.io/badge/Render-3462b2?style=for-the-badge) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-34b257?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## Featured Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **Rozei** | A personal anime tracker where every detail is yours to edit: titles, alternative names, genres, status and more. Series are organized in grids and groups, and the app runs on the web and as a desktop app. Built with TanStack Start, Drizzle, Better Auth and Tauri. | — |
