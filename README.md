@@ -1,9 +1,6 @@
-# Angelo J. Figueroa Mejia
-
-> Apps that don’t exist yet, with clean design and minimalist experiences.
-
 ## About Me
 
+> Apps that don’t exist yet, with clean design and minimalist experiences.
 - **Learning:** Rust, Go, Zig and IA Agent Coding.
 - **Open to:** Minimalist, design-driven web and desktop apps
 - **Fun fact:** I got tired of anime catalogs that only let me look at information, never change it. So I’m building my own tracker.
